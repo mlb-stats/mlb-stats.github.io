@@ -16,16 +16,12 @@ SEA | KCR | 2015
 PHI | LAA | 2207
 OAK | SFG | 2215
 
-You can use the [editor on GitHub](https://github.com/mlb-stats/mlb-stats.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Yesterday's Games
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Away | | | Home | Win | Loss | Save |
+-----|-|-|------|-----|------|------|
+ARI | 4 | 16 | CHC | Rondon | Corbin | Montgomery |
+CIN | 9 | 1 | PIT | Bailey | Taillon | |
 
 # Header 1
 ## Header 2
