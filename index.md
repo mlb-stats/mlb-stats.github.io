@@ -16,12 +16,7 @@ SEA | KCR | 2015
 PHI | LAA | 2207
 OAK | SFG | 2215
 
-### Yesterday's Games
-
-Away | | | Home | Win | Loss | Save |
------|-|-|------|-----|------|------|
-ARI | 4 | 16 | CHC | Rondon | Corbin | Montgomery |
-CIN | 9 | 1 | PIT | Bailey | Taillon | |
+## Yesterday's Games
 
 # Header 1
 ## Header 2
